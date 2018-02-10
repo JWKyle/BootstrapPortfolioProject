@@ -3,6 +3,7 @@
 
 .navbar {
   margin-bottom: 0;
+  /* background-color: #8fb4ef; */
 }
 
 /* CUSTOMIZED CAROUSEL
@@ -21,7 +22,7 @@
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 240px;
-  background-color: #777;
+  background-color: #8fb4ef;
 }
 .carousel-inner > .item > img {
   position: absolute;
@@ -56,10 +57,10 @@
 
 .marketing .col-md-4 .glyphicon {
   font-size: 60px;
-  background-color: #EAEAEA;
+  background-color: #8fb4ef;
   border-radius: 50%;
   padding: 40px;
-  color: #444;
+  color: silver;
 }
 
 
@@ -83,8 +84,8 @@ footer {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 160px;
-  background: #444;
-  color: white;
+  background: #8fb4ef;
+  color: silver;
   text-shadow: 1px 1px 1px black;
   padding: 40px 0;
 }
