@@ -63,6 +63,18 @@
   color: #444;
 }
 
+/* BADGES
+-------------------------------------------------- */
+
+.featurette-heading {
+  text-align: center;
+}
+
+.lead {
+  text-align: center;
+  padding: inherit;
+}
+
 
 /* STICKY FOOTER
 -------------------------------------------------- */
